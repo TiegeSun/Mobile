@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Personalproject" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/study_green</item>
+        <item name="colorPrimaryDark">@color/study_green_dark</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/study_mint</item>
+    </style>
+
+    <style name="Theme.Personalproject" parent="Base.Theme.Personalproject" />
+</resources>

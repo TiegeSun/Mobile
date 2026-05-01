@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tiege Study Planner</string>
+
+    <string-array name="study_categories">
+        <item>Android</item>
+        <item>Writing</item>
+        <item>Practice</item>
+        <item>Review</item>
+    </string-array>
+</resources>
